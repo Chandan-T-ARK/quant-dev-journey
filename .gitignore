@@ -1,0 +1,26 @@
+# Compiled binaries
+*.o
+*.out
+*.exe
+hello
+a.out
+*.dSYM/
+
+# macOS junk
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/settings.json
+
+# CMake
+build/
+CMakeFiles/
+CMakeCache.txt
+
